@@ -1,0 +1,212 @@
+0 HEAD
+1 SOUR Family Echo
+2 WWW http://www.familyecho.com/
+1 FILE My Family
+1 DATE 7 SEP 2019
+1 DEST ANSTFILE
+1 GEDC
+2 VERS 5.5.1
+2 FORM LINEAGE-LINKED
+1 SUBM @I1@
+2 NAME Anirudh Bezzam
+1 SUBN
+1 CHAR UTF-8
+0 @I1@ INDI
+1 NAME Anirudh /Bezzam/
+2 GIVN Anirudh
+2 SURN Bezzam
+2 _MARNM Bezzam
+1 SEX M
+1 BIRT
+2 DATE 10 MAR 1997
+1 FAMC @F1@
+0 @I2@ INDI
+1 NAME Christ Das /Bezzam/
+2 GIVN Christ Das
+2 SURN Bezzam
+2 _MARNM Bezzam
+1 SEX M
+1 BIRT
+2 DATE 23 MAR 1965
+1 FAMS @F1@
+1 FAMC @F2@
+0 @I3@ INDI
+1 NAME Praseetha /Menon/
+2 GIVN Praseetha
+2 SURN Menon
+2 _MARNM Das
+1 SEX F
+1 BIRT
+2 DATE 25 APR 1975
+1 FAMS @F1@
+1 FAMC @F3@
+0 @I4@ INDI
+1 NAME Rachel /Bezzam/
+2 GIVN Rachel
+2 SURN Bezzam
+2 _MARNM Bezzam
+1 SEX F
+1 BIRT
+2 DATE 31 AUG 2004
+1 FAMC @F1@
+0 @I5@ INDI
+1 NAME Kumar /Menon/
+2 GIVN Kumar
+2 SURN Menon
+2 _MARNM Menon
+1 SEX M
+1 BIRT
+2 DATE 12 JUL 1952
+1 FAMS @F3@
+0 @I6@ INDI
+1 NAME Shyamala /Menon/
+2 GIVN Shyamala
+2 SURN Menon
+2 _MARNM Menon
+1 SEX F
+1 BIRT
+2 DATE 1 SEP 1955
+1 FAMS @F3@
+1 FAMC @F4@
+0 @I7@ INDI
+1 NAME Prashanthi /Menon/
+2 GIVN Prashanthi
+2 SURN Menon
+2 _MARNM Menon
+1 SEX F
+1 BIRT
+2 DATE 26 JAN 1979
+1 FAMS @F5@
+1 FAMC @F3@
+0 @I8@ INDI
+1 NAME Sriram /G/
+2 GIVN Sriram
+2 SURN G
+2 _MARNM G
+1 SEX M
+1 BIRT
+2 DATE 16 MAR 1979
+1 FAMS @F5@
+0 @I9@ INDI
+1 NAME Solomon /Bezzam/
+2 GIVN Solomon
+2 SURN Bezzam
+2 _MARNM Bezzam
+1 SEX M
+1 BIRT
+2 DATE 5 MAY 1930
+1 FAMS @F2@
+0 @I10@ INDI
+1 NAME Elaine /Bezzam/
+2 GIVN Elaine
+2 SURN Bezzam
+2 _MARNM Bezzam
+1 SEX F
+1 BIRT
+2 DATE 6 APR 1920
+1 FAMS @F2@
+0 @I11@ INDI
+1 NAME Bethovan /Bezzam/
+2 GIVN Bethovan
+2 SURN Bezzam
+2 _MARNM Bezzam
+1 SEX M
+1 BIRT
+2 DATE 12 MAR 1960
+1 DEAT Y
+2 DATE 5 FEB 2019
+1 FAMS @F6@
+1 FAMC @F2@
+0 @I12@ INDI
+1 NAME Buddy /Bezzam/
+2 GIVN Buddy
+2 SURN Bezzam
+2 _MARNM Bezzam
+1 SEX F
+1 BIRT
+2 DATE 6 JUL 1950
+1 FAMS @F6@
+1 FAMS @F7@
+0 @I13@ INDI
+1 NAME Fergi /Bezzam/
+2 GIVN Fergi
+2 SURN Bezzam
+2 _MARNM Bezzam
+1 SEX M
+1 BIRT
+2 DATE 6 MAY 1970
+1 FAMS @F7@
+0 @I14@ INDI
+1 NAME Anita /Bezzam/
+2 GIVN Anita
+2 SURN Bezzam
+2 _MARNM Bezzam
+1 SEX F
+1 BIRT
+2 DATE 7 OCT 1990
+1 FAMC @F7@
+0 @I15@ INDI
+1 NAME Ray /Bezzam/
+2 GIVN Ray
+2 SURN Bezzam
+2 _MARNM Bezzam
+1 SEX M
+1 BIRT
+2 DATE 4 JUN 1970
+1 FAMC @F6@
+0 @I16@ INDI
+1 NAME Ram /Menon/
+2 GIVN Ram
+2 SURN Menon
+2 _MARNM Menon
+1 SEX M
+1 BIRT
+2 DATE 11 AUG 1940
+1 FAMS @F4@
+0 @I17@ INDI
+1 NAME Halry /Menon/
+2 GIVN Halry
+2 SURN Menon
+2 _MARNM Menon
+1 SEX F
+1 BIRT
+2 DATE 10 OCT 1945
+1 FAMS @F4@
+0 @F1@ FAM
+1 HUSB @I2@
+1 WIFE @I3@
+1 CHIL @I1@
+1 CHIL @I4@
+1 _CURRENT Y
+0 @F2@ FAM
+1 HUSB @I9@
+1 WIFE @I10@
+1 CHIL @I2@
+1 CHIL @I11@
+1 _CURRENT Y
+0 @F3@ FAM
+1 HUSB @I5@
+1 WIFE @I6@
+1 CHIL @I3@
+1 CHIL @I7@
+1 _CURRENT Y
+0 @F4@ FAM
+1 HUSB @I16@
+1 WIFE @I17@
+1 CHIL @I6@
+1 _CURRENT Y
+0 @F5@ FAM
+1 HUSB @I8@
+1 WIFE @I7@
+1 _CURRENT Y
+0 @F6@ FAM
+1 HUSB @I11@
+1 WIFE @I12@
+1 CHIL @I15@
+1 _CURRENT N
+0 @F7@ FAM
+1 HUSB @I13@
+1 WIFE @I12@
+1 CHIL @I14@
+1 _CURRENT Y
+0 TRLR
